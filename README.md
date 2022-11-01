@@ -1,1 +1,2 @@
-# freelancer-nft-app
+# metastar-platform
+Metastar Platform

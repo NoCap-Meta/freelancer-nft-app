@@ -1,0 +1,23 @@
+.stats-cards div.col-md-4 {
+    border: 1px dotted grey !important;
+    padding: 10px 15px; 
+}
+.head-title {
+margin-top: 100px;
+font-size:42px;
+font-weight: 600;
+}
+body {
+color: #fff !important;
+background-color: #000;
+}
+header {
+margin-bottom: 150px !important;
+}
+.nav-item {
+margin-right: 15px;
+}
+.cta-btn .nav-link {
+background-color: #fff !important;
+color: #000 !important;
+}
